@@ -102,6 +102,9 @@
 
 	https://github.com/deibit/cansina
 		python3 cansina.py -u 'https://example.com/' -p mydirfilelist.txt --persist
+       
+        https://github.com/Nekmo/dirhunt           
+                dirhunt -u 'https://example.com'                            //Dirhunt is a web crawler optimize for search and analyze directories
 	
 ### DNS and HTTP detection
 	https://ceye.io/
